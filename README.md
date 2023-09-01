@@ -19,3 +19,6 @@ In **Task 2**, dynamics are included and num_steps can be changed accordingly to
 In **Task 3**, The fixed mean point chosen is (1,1) and the manipulator acts as a spring about that point. Initial displaced end effector point is (1,0). The Code doesn't work ;(
 
 In**Task 4**, The workspace of the Manipulator are all points inside the Semi-Circular Figure that the End effector traces. The Dynamics are ignored.
+
+**Q0_21110196.pdf** contains the written solution of problems.
+
