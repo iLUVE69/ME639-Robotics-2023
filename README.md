@@ -6,6 +6,8 @@
 **Author** = **Shashank Ghosh**, **21110196**
 
 **Mini-Project**
+
+
 This repository contains 5 python scripts that are the solution to Task 1, Task 1(a), Task 2, Task3 and Task 4.
 
 In **Task 1**, dynamics of the 2R manipulator is ignored and simply the joint angles are passed into the Forward Kinematics function to print a random trajectory. The joint anlges q1,q2 belong to (0,pi).
