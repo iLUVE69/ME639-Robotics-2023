@@ -22,3 +22,8 @@ In**Task 4**, The workspace of the Manipulator are all points inside the Semi-Ci
 
 **Q0_21110196.pdf** contains the written solution of problems.
 
+**Assignment 1** Submission
+
+**ITRASSIGNMENT** pdf contains the solutions for **Q.6** and **Q.7**
+
+The **ITR_Assignment1** contains the solution for rest of the Questions.
