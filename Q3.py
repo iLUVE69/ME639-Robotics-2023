@@ -1,4 +1,4 @@
-#Harikrishnan R
+#21110196
 import numpy as np
 
 def getH(R, d):                             #homogeneous transformation
